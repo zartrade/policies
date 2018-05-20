@@ -22,6 +22,8 @@ Mappings of HIPAA Rules to Shape Software controls and a mapping of what Rules a
 
 ## 1.3 Shape Software Organizational Concepts
 
+Shape Software uses Datica Health, Inc ("Datica") to meet and exceed HIPAA's technical requirements. With Datica, we're not only HIPAA compliant but also HITRUST CSF Certified.
+
 The physical infrastructure environment is hosted at [Turnkey Internet](https://turnkeyinternet.net/). The network components and supporting network infrastructure are contained within the Turnkey Internet and managed by Turnkey Internet. Shape Software does not have physical access into the network components. The Shape Software environment consists of NGinx web servers; Percona database servers; Ubuntu Linux monitoring servers and OSSEC IDS services.
 
 Within the Shape Software Platform on Turnkey Internet Hosted Servers, all data transmission is encrypted and network traffic is contained for all database access on internet private network and not public facing; this applies to all servers. Shape Software assumes all data *may* contain ePHI, even though our Risk Assessment does not indicate this is the case, and provides appropriate protections based on that assumption.
