@@ -35,4 +35,3 @@ Shape Software implements policies and procedures to maintain compliance and int
   5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
   6. Compliance with annual compliance assessments, utilizing the HITRUST CSF as a framework, is monitored on a quarterly basis using the Quality Management System reporting to assess compliance with above policy.
 
-Additional documentation related to maintenance of policies is outlined in [§5.3.1](#5.3-security-officer).
