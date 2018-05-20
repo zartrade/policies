@@ -34,6 +34,5 @@ The segmentation strategies employed by Shape Software effectively create RFC 19
 
 Additionally, IPtables is used on each server for logical segmentation. IPtables is configured to restrict access to only justified ports and protocols. Shape Software has implemented strict logical access controls so that only authorized personnel are given access to the internal management servers.
 
-The VPN server, nginx web server, and application servers are externally facing and accessible via the Internet. The database servers, where the ePHI resides, are located on the internal Shape Software network and can only be accessed through a bastion host over a VPN connection. Access to the internal database is restricted to a limited number of personnel and strictly controlled to only those personnel with a business-justified reason. Remote access to internal servers is not accessible except through VPN Access.
-
+The SSH server, nginx web server, and application servers are externally facing and accessible via the Internet. The database servers, where the ePHI resides, are located on the internal Shape Software network and can only be accessed through a SSH connection using SSH Private/Public Key Encryption. Access to the internal database is restricted to a limited number of personnel and strictly controlled to only those personnel with a business-justified reason. Remote access to internal servers is not accessible except through authorized SSH Access.
 
