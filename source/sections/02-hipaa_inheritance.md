@@ -1,5 +1,7 @@
 # 2. HIPAA Inheritance
 
+Through the use of Datica, Shape Software inherits compliance on HIPAA provisions. While we have our own corresponding policies, we lean on Datica's infrastructure expertise. The following tables outline which HIPAA provisions we inherit from Datica's controls.
+
 ## 2.1 HIPAA Inheritance for PaaS Customers
 
 | **Administrative Controls** HIPAA Rule | Datica Control | Inherited
