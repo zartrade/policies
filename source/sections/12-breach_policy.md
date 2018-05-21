@@ -68,9 +68,13 @@ In the case of a breach, Shape Software shall notify all affected Customers. It 
 
 
 [Name]
+
 [Name of Customer]
+
 [Address 1]
+
 [Address 2]
+
 [City, State Zip Code]
 
 Dear [Name of Customer]:
@@ -95,7 +99,10 @@ Sincerely,
 
 
 Name Surname 
+
 Position in Company - Shape Software, LLC.
-email@setshape.com  
+
+email@setshape.com 
+
 phone number
 
