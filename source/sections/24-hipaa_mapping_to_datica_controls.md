@@ -1,6 +1,6 @@
 # 24. HIPAA Mappings to Datica Controls
 
-Below is a list of HIPAA Safeguards and Requirements and the Datica controls in place to meet those.
+Through the use of Datica, Shape Software inherits compliance on HIPAA provisions. While we have our own corresponding policies, we lean on Datica's infrastructure expertise. Below is a list of HIPAA Safeguards and Requirements and the Datica controls in place to meet those.
 
 | **Administrative Controls** HIPAA Rule | Datica Control
 --- | ---
