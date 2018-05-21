@@ -22,7 +22,6 @@ Shape Software is committed to ensuring all workforce members actively address s
 
 1. All new workforce members, including contractors, are given training on security policies and procedures, including operations security, within 30 days of employment.
    * Records of training are kept for all workforce members.
-   * Upon completion of training, workforce members complete this [form](https://docs.google.com/a/catalyze.io/forms/d/1bmEK3TidACj6ForBqGMaINPjIckv9ht28rtkGEQsBGs/viewform?usp=send_form).
    * Current Shape Software training is hosted at [training.datica.com](https://training.datica.com/).
    * Employees must complete this training before accessing production systems containing ePHI.
 2. All workforce members are granted access to formal organizational policies, which include the sanction policy for security violations.
