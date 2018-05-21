@@ -98,8 +98,11 @@ We will assist you in remedying the situation.
 Sincerely,
 
 
-Name Surname 
+Name Surname
+
 Position in Company - Shape Software, LLC.
-email@setshape.com 
+
+email@setshape.com
+
 phone number
 
