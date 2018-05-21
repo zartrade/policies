@@ -99,10 +99,7 @@ Sincerely,
 
 
 Name Surname 
-
 Position in Company - Shape Software, LLC.
-
 email@setshape.com 
-
 phone number
 
